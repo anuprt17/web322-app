@@ -1,0 +1,39 @@
+body{
+    background-color: navajowhite;
+    text-align: center;
+    border-radius: 2em;
+    overflow: auto;
+    box-shadow: 0 2px 10px -3px rgba(0, 0, 0, 0.3);
+    max-width: 90vw;  
+    }
+    .intro{
+        background-color: navajowhite;
+        text-align: center;
+        border-radius: 2em;
+        overflow: auto;
+        box-shadow: 0 2px 10px -3px rgba(0, 0, 0, 0.3);
+        max-width: 90vw;  
+    }
+    .active{
+        text-decoration: #cc87b7;
+        text-decoration: wavy;
+    }
+    .container{
+    background-color:  #b55698;
+    }
+    .Education{
+        background-color: rgb(141, 78, 85);
+        text-align: center;
+        padding-top: 20px;
+        margin: auto;
+        margin-top: 5%;
+        padding-bottom: 40px;
+        width: auto;
+        margin-bottom: 5%;
+        border-radius: 2em;
+        overflow: auto;
+        box-shadow: 0 2px 10px -3px rgba(0, 0, 0, 0.3);
+        max-width: 90vw;   
+    }
+    
+   
